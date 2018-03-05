@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Tim Bray's Blog"
 title_separator          : "-"
 name                     : "Tim Bray"
-description              : "An amazing website."
+description              : "A Blog about stuff?"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -92,8 +92,8 @@ analytics:
 author:
   name             : "Tim Bray"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Melbourne, AU"
+  bio              : "Geek. Learner. Tech Leader."
+  location         : "Melbourne, Australia"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
